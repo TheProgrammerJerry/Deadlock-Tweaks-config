@@ -96,3 +96,9 @@ Contributions are welcome! If you have additional tweaks, optimizations, or sugg
 ## Disclaimer
 
 These settings are heavily optimized for performance and may significantly reduce visual quality. Adjust settings based on your preferences and hardware capabilities.
+
+## TODO:
+
+Add pre load disable if not there:
+ "-no_prewarm_map"
+ 
